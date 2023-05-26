@@ -8,15 +8,23 @@
     margin: 0 auto;
 }
 #Esperanza{
-    width: 610px;
+    width: 210px;
     height: 100vh;
     background-color: green;
 }
 #Unidad{
-    width: 610px;
+    width: 210px;
     height: 100vh;
     background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+#Unidad img{
+    width: 420px;
+}
+#Sangre{
+    width: 210px;
+    height: 100vh;
+    background-color: red;
 }
